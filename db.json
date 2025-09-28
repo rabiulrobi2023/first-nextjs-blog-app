@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "brand": "Logitech",
+      "price": 300,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "id": "2",
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "Nike",
+      "price": 75.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVu_KfcmHrifpRTFXOz0bdnZQ-TlRR8Col8A&s"
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "brand": "Sony",
+      "price": 89.99,
+      "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch520_Primary_image?$categorypdpnav$&fmt=png-alpha"
+    },
+    {
+      "id": "4",
+      "name": "Smartphone",
+      "category": "Mobile",
+      "brand": "Samsung",
+      "price": 599.0,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+
+    {
+      "id": "6",
+      "name": "Smartwatch",
+      "category": "Wearables",
+      "brand": "Apple",
+      "price": 329.99,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "id": "7",
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "brand": "Razer",
+      "price": 119.95,
+      "image": "https://techlandbd.com/cache/images/uploads/products/P0442506028/cover_cache_optimize-60.webp"
+    },
+    {
+      "id": "8",
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "brand": "Fossil",
+      "price": 65.0,
+      "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb"
+    },
+    {
+      "id": "9",
+      "name": "DSLR Camera",
+      "category": "Cameras",
+      "brand": "Canon",
+      "price": 899.99,
+      "image": "https://www.sony.com/image/439bd7deb9e4d8df3cd4c2122ec978d3?fmt=png-alpha&scl=1"
+    },
+    {
+      "id": "10",
+      "name": "Office Chair",
+      "category": "Furniture",
+      "brand": "IKEA",
+      "price": 150.49,
+      "image": "https://officevogue.co.uk/cdn/shop/files/EX000009_1024x.png?v=1724164075"
+    }
+  ]
+}

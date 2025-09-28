@@ -14,6 +14,9 @@ const Navbar = () => {
           className="bg-white rounded-sm h-8 px-2"
           placeholder="Search"
         />
+        <Link href="/products" className="text-white">
+          Products
+        </Link>
         <Link href="/dashboard" className="text-white">
           Dashboard
         </Link>
