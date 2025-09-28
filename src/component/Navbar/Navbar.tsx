@@ -9,7 +9,11 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="flex gap-5">
-        <input type="text" className="bg-white rounded-sm h-8 px-2" placeholder="Search" />
+        <input
+          type="text"
+          className="bg-white rounded-sm h-8 px-2"
+          placeholder="Search"
+        />
         <Link href="/dashboard" className="text-white">
           Dashboard
         </Link>
@@ -18,6 +22,9 @@ const Navbar = () => {
         </Link>
         <Link href="/contact" className="text-white">
           Contact
+        </Link>
+        <Link href="/galary" className="text-white">
+          Galary
         </Link>
         <Link href="/login" className="text-white">
           Login

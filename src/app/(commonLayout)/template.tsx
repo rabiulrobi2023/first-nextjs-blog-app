@@ -4,9 +4,9 @@ import React from "react";
 
 const CommonLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col ">
       <Navbar></Navbar>
-      <div className="h-dvh">{children}</div>
+      <div className="min-h-dvh container mx-auto pt-6">{children}</div>
       <Footer></Footer>
     </div>
   );
