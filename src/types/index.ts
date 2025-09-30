@@ -6,3 +6,9 @@ export interface IProduct {
   price: number;
   image: string;
 }
+
+export interface IPost {
+  id: string;
+  title: string;
+  body: string;
+}
